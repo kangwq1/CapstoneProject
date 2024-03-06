@@ -1,5 +1,5 @@
 # CapstoneProject 
-# week 3 task 1-10 
+# week 3 task 1-9
 con <- dbConnect(RSQLite::SQLite(),"RDB.sqlite")
 con
 worldcities <- read.csv("raw_worldcities.csv")
